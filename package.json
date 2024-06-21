@@ -1,0 +1,30 @@
+{
+  "name": "express-course",
+  "version": "1.0.0",
+  "description": "This is a course for the mvc framework for Node.js, Express.js",
+  "main": "hello-world.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaztTech/express-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaztTech/express-course/issues"
+  },
+  "homepage": "https://github.com/FaztTech/express-course#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^2.7.4",
+    "express": "^4.19.2",
+    "morgan": "^1.8.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}
